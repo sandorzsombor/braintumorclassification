@@ -1,1 +1,1 @@
-A féléves feladatom az volt,hogy emberi agyakról készült képeket kellett feldolgoznom és klasszifikációval eldönteni, majd tanítani a modellt, melyekben milyen rákos szövődmény látható.
+A féléves feladatom az volt,hogy emberi agyakról készült képeket kellett feldolgoznom és klasszifikációval eldönteni, majd tanítani a modellt, melyekben milyen rákos szövődmény látható. A nagyméretű képi állományt zipben töltöm fel, a feladatomban a driveomból olvastam be.
